@@ -6,10 +6,10 @@
 
 ## Selecting Suitable Projects for Applying Machine Learning Algorithms
 - Explore various projects suitable for applying the following four machine learning algorithms:
-  1. Linear Regression
-  2. K-means Clustering
-  3. Logistic Regression
-  4. Support Vector Machines (SVM)
+  1. Linear Regression (Duong Trung Quoc - 21110101)
+  2. K-means Clustering (Phung Ngoc Duc Minh - 21110095)
+  3. Logistic Regression (Hoang Tien Trung Kien - 21110088)
+  4. Support Vector Machines (SVM) (Truong Tien Trung - 21110071)
 
 For example, such as predicting house prices with Linear Regression, customer clustering with K-means, spam email detection with Logistic Regression, and Irish flower classification using Support Vector Machines (SVM).
 
